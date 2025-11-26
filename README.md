@@ -22,7 +22,7 @@ What type is it? (e.g., person-politician)
 
 1] LoRA configuration - [click here](https://github.com/ArjunJagdale/NER/main/README.md#-dataset-configuration)
 
-2] AWS deployment Setup - [click here](https://github.com/ArjunJagdale/NER/main/README.md#-aws-deployment-fastapi--docker--ec2)
+2] AWS deployment Setup - [click here](https://github.com/ArjunJagdale/NER/blob/main/README.md#-aws-deployment-fastapi--docker--ec2)
 
 ---
 
