@@ -294,3 +294,9 @@ http://<YOUR_EC2_PUBLIC_IP>:8000/docs
 
 ---
 
+## Local ENDPOINT TESTING - 
+
+<img width="1336" height="717" alt="Screenshot 2025-11-26 194519" src="https://github.com/user-attachments/assets/82b737b5-0fa1-48f6-acc2-1af243cd6677" />
+
+<img width="1339" height="200" alt="Screenshot 2025-11-26 194533" src="https://github.com/user-attachments/assets/8b1e5591-11e0-423c-bcf0-bc0afd33fe03" />
+
