@@ -2,12 +2,13 @@
 
 ---
 
-Live DEMO - deployed here on [HF spaces](https://huggingface.co/spaces/ajnx014/LoRA-finetuned-NER)
+### Live DEMO - deployed here on [HF spaces](https://huggingface.co/spaces/ajnx014/LoRA-finetuned-NER)
+
+https://github.com/user-attachments/assets/2922d775-bb60-4bbb-a57d-7f7b8ee13afa
 
 ---
 
-This section documents the full finetuning pipeline used to train a parameter-efficient NER model using **LoRA adapters** on top of **RoBERTa-base**, optimized for deployment on low-memory environments (AWS EC2, Lambda, containers). if you wish to jump to AWS deployment part of the markdown, click here - 
-AWS deployment Setup - [click here](https://github.com/ArjunJagdale/NER/blob/main/README.md#-aws-deployment-fastapi--docker--ec2)
+This section documents the full finetuning pipeline used to train a parameter-efficient NER model using **LoRA adapters** on top of **RoBERTa-base**, optimized for deployment on low-memory environments (AWS EC2, Lambda, containers). if you wish to jump to AWS deployment part of the markdown, click here - [TAKE ME TO AWS SETUP](https://github.com/ArjunJagdale/NER/blob/main/README.md#-aws-deployment-fastapi--docker--ec2)
 
 ## What is Named Entity Recognition (NER)?
 
