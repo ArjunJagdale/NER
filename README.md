@@ -1,5 +1,11 @@
 # LoRA Finetuning: RoBERTa-Base on Few-NERD (Supervised)
 
+---
+
+Live DEMO - deployed here on [HF spaces](https://huggingface.co/spaces/ajnx014/LoRA-finetuned-NER)
+
+---
+
 This section documents the full finetuning pipeline used to train a parameter-efficient NER model using **LoRA adapters** on top of **RoBERTa-base**, optimized for deployment on low-memory environments (AWS EC2, Lambda, containers).
 
 ## What is Named Entity Recognition (NER)?
@@ -16,7 +22,7 @@ What type is it? (e.g., person-politician)
 
 1] LoRA configuration - [click here](https://github.com/ArjunJagdale/NER/edit/main/README.md#-dataset-configuration)
 
-2] AWS deployment Setup - [click here]()
+2] AWS deployment Setup - [click here](https://github.com/ArjunJagdale/NER/edit/main/README.md#-aws-deployment-fastapi--docker--ec2)
 
 ---
 
