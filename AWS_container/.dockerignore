@@ -1,0 +1,27 @@
+# Python trash
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+# Logs / temp
+*.tmp
+*.log
+
+# Git + local trash
+.git/
+.gitignore
+.DS_Store
+
+# Big local folders you NEVER want in Docker
+cache/
+checkpoints/
+runs/
+output/
