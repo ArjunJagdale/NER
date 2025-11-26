@@ -1,4 +1,4 @@
-# 🧠 LoRA Finetuning: RoBERTa-Base on Few-NERD (Supervised)
+# LoRA Finetuning: RoBERTa-Base on Few-NERD (Supervised)
 
 This section documents the full finetuning pipeline used to train a parameter-efficient NER model using **LoRA adapters** on top of **RoBERTa-base**, optimized for deployment on low-memory environments (AWS EC2, Lambda, containers).
 
