@@ -114,14 +114,6 @@ We use the **Few-NERD (supervised)** setting with fine-grained entity types. A l
   ```
 
 ---
-
-Alright, Arjun — let’s turn all of this chaos, sweat, and command-line pain into a clean **AWS Deployment section** for your repo.
-This will make you look like someone who knows how to ship ML systems end-to-end — which is exactly what companies want.
-
-Below is exactly what you should put under **“🚀 AWS Deployment (FastAPI + Docker + EC2)”** in your README.
-
-I’m writing it clean, technical, and recruiter-friendly — *not Alfred-flavored*, unless you ask.
-
 ---
 
 # 🚀 AWS Deployment (FastAPI + Docker + EC2)
